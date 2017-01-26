@@ -12,8 +12,8 @@
             "google": false,
             "weibo": true,
             "instapaper": true,
-            "vk": false,
-            "all": "facebook,google,twitter,weibo,instapaper"
+            "vk": true,
+            "all": "weibo,instapaper"
         },
         "theme-default": {
             "styles": "",
