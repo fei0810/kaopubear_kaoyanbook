@@ -1,8 +1,9 @@
 {
     "language": "zh",
     "plugins": [
-        "anchors",
-        "anchor-navigation-ex"
+        "-anchors",
+        "-anchor-navigation-ex"
+        "navigator"
     ],
     "pluginsConfig": {
          "anchor-navigation-ex":{
@@ -22,14 +23,6 @@
                 "weibo",
                 "instapaper"
             ]
-        },
-        "etoc": {
-            "mindepth": 3,
-            "maxdepth": 5,
-            "notoc": false
-        },
-        "theme-default": {
-            "showLevel": false
         }
     }
 }
