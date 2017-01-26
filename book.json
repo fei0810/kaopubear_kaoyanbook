@@ -1,3 +1,10 @@
 {
-
+    "plugins": [
+        "atoc",
+        "back-to-top-button",
+        "betterchinese",
+        "catalog",
+        "donate",
+        "markdown-toc"
+    ]
 }
