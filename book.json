@@ -9,6 +9,7 @@
     "pluginsConfig": {
         "disqus":{
             "shortName": "kaopubearKaoYan"
+        },
         "sharing": {
             "facebook": false,
             "twitter": false,
