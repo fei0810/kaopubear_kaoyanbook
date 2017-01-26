@@ -1,10 +1,10 @@
 {
     "language": "zh",
     "plugins": [
-        "anchors",
-        "splitter",
-        "disqus",
-        "etoc"
+        "-anchors",
+        "-splitter",
+        "-disqus",
+        "-etoc"
     ],
     "pluginsConfig": {
         "disqus":{
@@ -13,7 +13,7 @@
         "sharing": {
             "facebook": false,
             "twitter": false,
-            "google": false,
+            "google": true,
             "weibo": true,
             "instapaper": true,
             "vk": false,
@@ -31,7 +31,7 @@
             "notoc": false
         },
         "theme-default": {
-            "showLevel": true
+            "showLevel": false
         }
     }
 }
