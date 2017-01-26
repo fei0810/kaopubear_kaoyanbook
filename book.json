@@ -1,7 +1,9 @@
 {
     "plugins": [
         "sharing",
-        "theme-default"
+        "theme-default",
+        "katex",
+        "atoc"
     ],
     "pluginsConfig": {
         "sharing": {
@@ -23,6 +25,10 @@
         "lunr": {
             "maxIndexSize": 1000000,
             "ignoreSpecialCharacters": false
+        },
+        "disqus": {
+            "shortName": "",
+            "useIdentifier": true
         }
     }
 }
