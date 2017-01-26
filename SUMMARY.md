@@ -1,7 +1,7 @@
 # Summary
 * [关于本书](README.md)
 * [第二版前言](preface.md)
-* [第三版前言](prefece2.md)
+* [第三版前言](preface2.md)
 * [第四版代序](preface3.md)
 * [致考研人系列](chapter1.md)
   * [致考研人1：我过去一年的考研之路](chapter1/2017-01-24-致考研人01.md)
