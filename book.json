@@ -1,14 +1,9 @@
 {
-    "language": "zh",
+    "language": "zh-hans",
     "plugins": [
-        "-anchors",
-        "-anchor-navigation-ex"
         "navigator"
     ],
-    "pluginsConfig": {
-         "anchor-navigation-ex":{
-            "isRewritePageTitle":true
-        },    
+    "pluginsConfig": {  
         "sharing": {
             "facebook": false,
             "twitter": false,
