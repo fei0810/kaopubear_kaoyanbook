@@ -1,15 +1,13 @@
 {
     "language": "zh",
     "plugins": [
-        "-anchors",
-        "-splitter",
-        "-disqus",
-        "-etoc"
+        "anchors",
+        "anchor-navigation-ex"
     ],
     "pluginsConfig": {
-        "disqus":{
-            "shortName": "kaopubearKaoYan"
-        },
+         "anchor-navigation-ex":{
+            "isRewritePageTitle":true
+        },    
         "sharing": {
             "facebook": false,
             "twitter": false,
