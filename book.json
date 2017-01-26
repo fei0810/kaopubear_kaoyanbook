@@ -1,4 +1,11 @@
 {
+    "language": "zh",
+    "plugins": [
+        "anchors",
+        "splitter",
+        "disqus",
+        "etoc"
+    ],
     "pluginsConfig": {
         "sharing": {
             "facebook": false,
@@ -14,6 +21,11 @@
                 "weibo",
                 "instapaper"
             ]
+        },
+        "etoc": {
+            "mindepth": 3,
+            "maxdepth": 4,
+            "notoc": false
         },
         "theme-default": {
             "showLevel": true
