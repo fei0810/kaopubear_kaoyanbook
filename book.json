@@ -7,9 +7,9 @@
     ],
     "pluginsConfig": {
         "sharing": {
-            "facebook": false,
-            "twitter": false,
-            "google": false,
+            "facebook": true,
+            "twitter": true,
+            "google": true,
             "weibo": true,
             "instapaper": true,
             "vk": true,
