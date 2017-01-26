@@ -8,9 +8,16 @@
             "instapaper": true,
             "vk": false,
             "all": [
-                "facebook", "google", "twitter",
-                "weibo", "instapaper"
+                "facebook",
+                "google",
+                "twitter",
+                "weibo",
+                "instapaper"
             ]
+        },
+        "theme-default": {
+            "styles": "",
+            "showLevel": true
         }
     }
 }
