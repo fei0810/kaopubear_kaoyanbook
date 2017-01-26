@@ -6,15 +6,6 @@
         "atoc"
     ],
     "pluginsConfig": {
-        "sharing": {
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "weibo": true,
-            "instapaper": true,
-            "vk": true,
-            "all": "weibo,instapaper"
-        },
         "theme-default": {
             "styles": "",
             "showLevel": true
