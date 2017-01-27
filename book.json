@@ -1,9 +1,13 @@
 {
     "language": "zh-hans",
     "plugins": [
-        "navigator"
+        "navigator",
+        "ga"
     ],
     "pluginsConfig": {  
+        "ga": {
+            "token": "UA-91022805-1"
+        },
         "sharing": {
             "facebook": false,
             "twitter": false,
