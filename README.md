@@ -17,7 +17,7 @@
 祝阅读愉快，希望你有所收获。
 
 ---
-欢迎订阅我的个人博客：[Bioinfo Thinker](http://kaopubear.top)
+欢迎订阅我的个人博客：[Data Thinker](http://kaopubear.top)
 
 欢迎关注我的新浪微博：[一只思考问题的熊](http://weibo.com/277440877)
 
