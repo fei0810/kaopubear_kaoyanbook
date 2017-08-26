@@ -12,13 +12,17 @@
 
 如果没有意外的话，这应该是这本合集的最后一个版本。最后一个版本并非结束而是意味着开始，因为所有人都可以在今后的日子里通过`gitbook`来阅读甚至参与编辑这本合集。
 
-本书所有内容遵守 **CC-BY-NC-SA 4.0 International** 开源协议
+本书所有内容遵守 [**CC-BY-NC-SA 4.0 International**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 开源协议
 
 祝阅读愉快，希望你有所收获。
 
 ---
+
 欢迎订阅个人博客：[Data Thinker](http://kaopubear.top)
 
 欢迎关注新浪微博：[一只思考问题的熊](http://weibo.com/277440877)
 
-欢迎关注公众账号：一只思考问题的熊(ID:ibear_share)
+欢迎关注微信公众账号：一只思考问题的熊\(ID:ibear\_share\)
+
+文章转载等事宜请邮件联系：kaopuxuezhang@163.com
+
