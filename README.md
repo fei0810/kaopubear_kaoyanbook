@@ -24,5 +24,5 @@
 
 欢迎关注微信公众账号：一只思考问题的熊\(ID:ibear\_share\)
 
-文章转载等事宜请邮件联系：kaopuxuezhang@163.com
+文章转载等事宜请邮件联系：zhaofei01@aliyun.com
 
