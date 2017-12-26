@@ -20,9 +20,9 @@
 
 欢迎订阅个人博客：[Data Thinker](http://kaopubear.top)
 
-欢迎关注新浪微博：[一只思考问题的熊](http://weibo.com/277440877)
+欢迎关注新浪微博：[思考问题的熊](http://weibo.com/277440877)
 
-欢迎关注微信公众账号：一只思考问题的熊\(ID:ibear\_share\)
+欢迎关注微信公众账号：思考问题的熊\(ID:ibear\_share\)
 
 文章转载等事宜请邮件联系：zhaofei01@aliyun.com
 
