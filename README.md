@@ -20,7 +20,7 @@
 
 欢迎订阅个人博客：[Data Thinker](http://kaopubear.top)
 
-欢迎关注新浪微博：[不思考问题的熊](https://weibo.com/277440877)
+欢迎关注新浪微博：[思考问题的熊](https://weibo.com/277440877)
 
 文章转载等事宜请邮件联系：zhaofei01@aliyun.com
 
