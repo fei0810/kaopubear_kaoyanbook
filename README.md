@@ -18,9 +18,9 @@
 
 ---
 
-欢迎订阅个人博客：[Data Thinker](http://kaopubear.top)
+欢迎订阅个人博客：[Chinese Academy of Sciences](http://kaopubear.top)
 
-欢迎关注新浪微博：[思考问题的熊](https://weibo.com/277440877)
+欢迎关注我的简书：[思考问题的熊](https://www.jianshu.com/u/963b2c9fee02)
 
 文章转载等事宜请邮件联系：zhaofei01@aliyun.com
 
