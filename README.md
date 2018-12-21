@@ -18,7 +18,7 @@
 
 ---
 
-欢迎订阅个人博客：[Chinese Academy of Sciences](http://kaopubear.top)
+欢迎订阅个人博客：[Weekly STAR](http://kaopubear.top)
 
 欢迎关注我的简书：[思考问题的熊](https://www.jianshu.com/u/963b2c9fee02)
 
