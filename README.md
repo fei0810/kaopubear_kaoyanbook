@@ -22,7 +22,7 @@
 
 欢迎关注我的简书：[思考问题的熊](https://www.jianshu.com/u/963b2c9fee02)
 
-文章转载等事宜请邮件联系：zhaofei01@aliyun.com
+文章转载等事宜请邮件联系：zhaofei415@mails.ucas.edu.cn
 
 ![](/assets/微信图片_20180301200631.png)
 
