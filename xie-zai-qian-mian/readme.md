@@ -1,4 +1,4 @@
-# 说明
+# 关于本书
 
 恰好看到这本书的考研人你好。
 
@@ -22,5 +22,5 @@
 
 国内加速访问可使用 [语雀](https://www.yuque.com/kaopubear/kaoyan) 版本
 
-![](.gitbook/assets/wei-xin-tu-pian-20180301200631.png)
+![](../.gitbook/assets/wei-xin-tu-pian-20180301200631.png)
 
