@@ -10,9 +10,7 @@
 
 希望通过阅读这部分内容，可以帮你提供一些学习英语真题的思路，能够对你有些许的启发。
 
-欢迎订阅个人博客：[Data Thinker](http://kaopubear.top)
+移步个人主页查看最新文章：[思考问题的熊](https://kaopubear.top)
 
-欢迎关注新浪微博：[一只思考问题的熊](http://weibo.com/277440877)
-
-欢迎关注公众账号：一只思考问题的熊\(ID:ibear\_share\)
+文章转载等事宜请邮件联系：kaopubear@aliyun.com
 
