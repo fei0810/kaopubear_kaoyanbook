@@ -18,9 +18,7 @@
 
 移步个人主页查看最新文章：[思考问题的熊](https://kaopubear.top)
 
-文章转载等事宜请邮件联系：kaopubear@aliyun.com
+文章转载等事宜请邮件联系：hi@kaopubear.top
 
 国内加速访问可使用 [语雀](https://www.yuque.com/kaopubear/kaoyan) 版本
-
-![](.gitbook/assets/微信图片_20180301200631.png)
 
