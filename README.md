@@ -18,7 +18,11 @@
 
 移步个人主页查看最新文章：[思考问题的熊](https://kaopubear.top)
 
-文章转载等事宜请邮件联系：hi@kaopubear.top
+{% embed url="https://文章转载等事宜请邮件联系：hi@kaopubear.top" %}
+
+本书在线访问地址：https://book.kaopubear.top
 
 国内加速访问可使用 [语雀](https://www.yuque.com/kaopubear/kaoyan) 版本
+
+
 
